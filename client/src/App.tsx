@@ -1,8 +1,8 @@
 import './App.css';
-import { Button } from './components/ui/button';
+import Search from './pages/Search';
 
 function App() {
-  return <Button>Bitch</Button>;
+  return <Search />;
 }
 
 export default App;
